@@ -10,22 +10,22 @@ Este curso aborda os fundamentos da classificação em Machine Learning, explora
    - Exemplos práticos de classificação
 
 2. **Método baseado na proximidade**
-   - Conceitos de métodos baseados em proximidade (k-NN, etc.)
+   - Conceitos de métodos baseados em proximidade (k-NN)
    - Aplicação prática desses métodos
    - Vantagens e desvantagens
 
 3. **Método probabilístico**
-   - Conceitos de métodos probabilísticos (Naive Bayes, etc.)
+   - Conceitos de métodos probabilísticos (Naive Bayes)
    - Aplicação prática desses métodos
    - Vantagens e desvantagens
 
 4. **Método simbólico**
-   - Introdução aos métodos simbólicos (árvores de decisão, etc.)
+   - Introdução aos métodos simbólicos (árvores de decisão)
    - Aplicação prática desses métodos
    - Vantagens e desvantagens
 
 5. **Validação dos modelos**
-   - Técnicas de validação de modelos (cross-validation, etc.)
+   - Técnicas de validação de modelos
    - Métricas de avaliação de desempenho
    - Como interpretar os resultados
 
@@ -43,7 +43,4 @@ Ao final deste curso, você será capaz de:
 - Utilizar métodos probabilísticos para criar modelos de classificação.
 - Implementar métodos simbólicos para resolver problemas de classificação.
 - Validar e avaliar o desempenho de modelos de classificação.
-
 ---
-
-Bons estudos!
